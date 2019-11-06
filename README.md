@@ -1,4 +1,4 @@
-# Portfolio-Optimisation
+# Portfolio-Optimisation for the Defensive Investor
 For a few selected stocks we will see how the weights allocation for each stock differs for different investment strategies and compare the returns for those strategies. 
 
 1. For the stock selection strategy I've used P/E ratio and selected multiple stocks from different cap categories - Bluechip, midcap and smallcap of varied P/E ratio to see how the weights allocation varies for each stock. 
