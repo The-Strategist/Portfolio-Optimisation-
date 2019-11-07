@@ -10,3 +10,5 @@ two approaches.
   #1.Monte Carlo Simulation. The code for this approach is taken from "https://towardsdatascience.com/efficient-frontier-portfolio-optimisation-in-python-e7844051e7f"
 
   #2.Python optimization library 'pyportfolioopt' which uses Sharpe Ratio as the Objective function to optimise the weights
+
+I've given complete explanation of the project in the "About_Portfolio_Optimization" document. Please go through it for detailed understanding of the project. 
